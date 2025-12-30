@@ -1,7 +1,20 @@
 {
-  "name": "codemenu",
+  "name": "@vorluno/menu",
   "version": "0.1.0",
   "private": true,
+  "description": "VOR-MENU - Digital menu PWA for restaurants by Vorluno",
+  "author": "Vorluno",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vorluno/menu.git"
+  },
+  "keywords": [
+    "digital-menu",
+    "pwa",
+    "restaurant",
+    "vorluno",
+    "nextjs"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,6 +24,7 @@
   "dependencies": {
     "@fontsource/inter": "^5.2.8",
     "@fontsource/playfair-display": "^5.2.8",
+    "@radix-ui/react-checkbox": "^1.3.3",
     "@radix-ui/react-dialog": "^1.1.15",
     "@radix-ui/react-dropdown-menu": "^2.1.16",
     "@radix-ui/react-label": "^2.1.8",

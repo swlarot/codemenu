@@ -1,6 +1,6 @@
-# 🍽️ CodeMenu - Digital Menu PWA
+# 🍽️ Vorluno Menu - VOR-MENU
 
-Modern digital menu PWA (Progressive Web App) for restaurants with public menu viewing and admin panel for content management.
+**VOR-MENU** by [Vorluno](https://vorluno.dev) - Modern digital menu PWA (Progressive Web App) for restaurants with public menu viewing and admin panel for content management.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16.0-black?logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?logo=typescript)
@@ -56,8 +56,8 @@ Modern digital menu PWA (Progressive Web App) for restaurants with public menu v
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourusername/codemenu.git
-cd codemenu
+git clone https://github.com/vorluno/menu.git
+cd menu
 npm install
 ```
 
@@ -111,7 +111,7 @@ Admin panel: [http://localhost:3000/login](http://localhost:3000/login)
 ## 📁 Project Structure
 
 ```
-codemenu/
+menu/
 ├── src/
 │   ├── app/
 │   │   ├── [locale]/           # Internationalized routes

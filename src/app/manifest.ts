@@ -2,10 +2,11 @@ import { MetadataRoute } from 'next'
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: 'Digital Menu - Restaurant PWA',
-    short_name: 'Menu',
-    description: 'Modern digital menu PWA for restaurants. Showcase your menu with style and elegance.',
+    name: 'Vorluno Menu - VOR-MENU',
+    short_name: 'Vorluno Menu',
+    description: 'VOR-MENU by Vorluno - Modern digital menu PWA for restaurants. Showcase your menu with style and elegance.',
     start_url: '/',
+    id: 'com.vorluno.menu',
     display: 'standalone',
     background_color: '#0a0a0a',
     theme_color: '#c9a227',

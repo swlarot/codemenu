@@ -9,15 +9,15 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    template: '%s | Digital Menu',
-    default: 'Restaurant Digital Menu - Premium PWA',
+    template: '%s | Vorluno Menu',
+    default: 'Vorluno Menu - VOR-MENU Digital Restaurant PWA',
   },
-  description: "Modern digital menu PWA - Showcase your restaurant menu with style",
+  description: "VOR-MENU by Vorluno - Modern digital menu PWA for restaurants. Showcase your menu with style and elegance.",
   manifest: '/manifest.webmanifest',
   appleWebApp: {
     capable: true,
     statusBarStyle: 'black-translucent',
-    title: 'Digital Menu',
+    title: 'Vorluno Menu',
   },
   icons: {
     icon: [
