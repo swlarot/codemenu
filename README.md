@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="portfolio_form_og_v3" alt="Intake Form Premium" width="1000" />
+  <img src="portfolio_form_og_v3.png" alt="Intake Form Premium" width="1000" />
 </p>
 
 <p align="center">
